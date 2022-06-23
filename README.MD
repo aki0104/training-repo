@@ -1,3 +1,3 @@
 # Training on Github
 
-Install Git in Desktop
+Install Git in Linux
